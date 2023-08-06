@@ -9,24 +9,35 @@ I'm currently in the final year of my bachelor's degree in Computer Science at *
 - 🏢 Leveraging my extensive experience from the hospitality sector to bring a unique perspective to tech projects.
 - 🎯 **Next Learning Goals**: Diving into JavaScript, with a focus on mastering React.
 
-### Technical Skills:
-- **Languages**: HTML, CSS, PHP, Java, Python
-- **Databases**: SQL
-  
-
+<h3 align="left">Languages and Tools:</h3>
+<table align="left">
+  <tr>
+    <td align="center">Frontend</td>
+    <td align="center">Backend</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"><img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></a>
+    </td>
+    <td align="center">
+      <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></a>
+      <a href="https://docs.python.org/3/"><img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></a>
+      <a href="https://www.php.net/docs.php"><img alt="PHP" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" /></a>
+      <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /></a>
+    </td>
+  </tr>
+</table>
+<br clear="left">
 
 ### Connect with Me:
-[<img align="left" alt="Cesar's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-[<img align="left" alt="Cesar's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="Cesar's Instagram" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="left" alt="Cesar's LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-[instagram]: https://www.instagram.com/ceesaraugust0/
-[linkedin]: https://www.linkedin.com/in/c%C3%A9sar-gon%C3%A7alves-735b5bb3/
-
-<br>
-<br>
+<br />
+<br />
 
 Feel free to reach out if you'd like to collaborate or just chat. I'm always open to new opportunities and connections.
 
-
-
-
+[instagram]: https://www.instagram.com/ceesaraugust0/
+[linkedin]: https://www.linkedin.com/in/c%C3%A9sar-gon%C3%A7alves-735b5bb3/
