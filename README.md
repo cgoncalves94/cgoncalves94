@@ -2,7 +2,7 @@
 
 ## About Me
 I'm currently in the final year of my bachelor's degree in Computer Science at **Birkbeck University**.<br>
-With a background of 9 years in the hospitality sector, I've honed my social and managerial skills, leading my department with dedication. 
+With a background of 9 years in the hospitality sector, I've honed my social and managerial skills, leading my department with dedication.<br> 
 My passion for technology drives me, and I'm eager to contribute more to the tech world.
 
 ### What I'm up to:
