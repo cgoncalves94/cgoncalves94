@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Cesar! 👋
 
-<!--
-**cgoncalves94/cgoncalves94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm currently in the final year of my bachelor's degree in Computer Science at **Birkbeck University**. With a background of 9 years in the hospitality sector, I've honed my social and managerial skills, leading my department with dedication. My passion for technology drives me, and I'm eager to contribute more to the tech world.
 
-Here are some ideas to get you started:
+### What I'm up to:
+- 🎓 Wrapping up my bachelor's degree in Computer Science at Birkbeck University.
+- 🌐 Taking additional courses on [CodeAcademy](https://www.codecademy.com/) to further enhance my skills.
+- 🏢 Leveraging my extensive experience from the hospitality sector to bring a unique perspective to tech projects.
+- 🎯 **Next Learning Goals**: Diving into JavaScript, with a focus on mastering React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills:
+- **Languages**: HTML, CSS, PHP, Java, Python
+- **Databases**: SQL
+
+### Connect with Me:
+- [LinkedIn](https://www.linkedin.com/in/c%C3%A9sar-gon%C3%A7alves-735b5bb3/)
+- [Instagram](https://www.instagram.com/ceesaraugust0/)
+
+Feel free to reach out if you'd like to collaborate or just chat. I'm always open to new opportunities and connections.
