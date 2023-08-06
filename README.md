@@ -34,10 +34,7 @@ I'm currently in the final year of my bachelor's degree in Computer Science at *
 [<img align="left" alt="Cesar's Instagram" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 [<img align="left" alt="Cesar's LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
-<br />
-<br />
 
-Feel free to reach out if you'd like to collaborate or just chat. I'm always open to new opportunities and connections.
 
 [instagram]: https://www.instagram.com/ceesaraugust0/
 [linkedin]: https://www.linkedin.com/in/c%C3%A9sar-gon%C3%A7alves-735b5bb3/
