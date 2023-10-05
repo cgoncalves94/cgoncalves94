@@ -20,7 +20,7 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="60px" src="https://skillicons.dev/icons?i=html" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"><img alt="CSS3" width="60px" src="https://skillicons.dev/icons?i=css" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="60px" src="https://skillicons.dev/icons?i=css" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="CSS3" width="60px" src="https://skillicons.dev/icons?i=js" /></a>
     </td>
     <td align="center">
