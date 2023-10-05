@@ -19,14 +19,16 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
   </tr>
   <tr>
     <td align="center">
-      <a href="https://skillicons.dev/icons?i=html"><img alt="HTML5" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"><img alt="CSS3" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="60px" src="https://skillicons.dev/icons?i=html" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference"><img alt="CSS3" width="60px" src="https://skillicons.dev/icons?i=css" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="CSS3" width="60px" src="https://skillicons.dev/icons?i=js" /></a>
     </td>
     <td align="center">
-      <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" /></a>
-      <a href="https://docs.python.org/3/"><img alt="Python" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" /></a>
-      <a href="https://www.php.net/docs.php"><img alt="PHP" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" /></a>
-      <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" /></a>
+      <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="60px" src="https://skillicons.dev/icons?i=java" /></a>
+      <a href="https://docs.spring.io/spring-framework/reference/index.html"><img alt="Java" width="60px" src="https://skillicons.dev/icons?i=spring" /></a>
+      <a href="https://docs.python.org/3/"><img alt="Python" width="60px" src="https://skillicons.dev/icons?i=py" /></a>
+      <a href="https://www.php.net/docs.php"><img alt="PHP" width="60px" src="https://skillicons.dev/icons?i=php" /></a>
+      <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://skillicons.dev/icons?i=mysql" /></a>
     </td>
   </tr>
 </table>
