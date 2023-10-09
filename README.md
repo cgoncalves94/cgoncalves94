@@ -7,7 +7,7 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
 
 ### What I'm up to:
 - 🎓 Wrapping up my bachelor's degree in Computer Science at Birkbeck University.
-- 🌐 Taking additional courses on [CodeAcademy](https://www.codecademy.com/) to further enhance my skills.
+- 🌐 Taking additional courses on [Codecademy](https://www.codecademy.com/) to further enhance my skills.
 - 🏢 Leveraging my extensive experience from the hospitality sector to bring a unique perspective to tech projects.
 - 🎯 **Next Learning Goals**: Diving into JavaScript, focusing on mastering React.
 <h3 align="left">Languages and Tools:</h3>
