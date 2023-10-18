@@ -40,4 +40,4 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
 
 
 [instagram]: https://www.instagram.com/ceesaraugust0/
-[linkedin]: https://www.linkedin.com/in/c%C3%A9sar-gon%C3%A7alves-735b5bb3/
+[linkedin]: https://www.linkedin.com/in/cesar-goncalves-735b5bb3
