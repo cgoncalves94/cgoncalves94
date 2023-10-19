@@ -10,11 +10,12 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
 - 🌐 Taking additional courses on [Codecademy](https://www.codecademy.com/) to further enhance my skills.
 - 🏢 Leveraging my extensive experience from the hospitality sector to bring a unique perspective to tech projects.
 - 🎯 **Next Learning Goals**: Diving into JavaScript, focusing on mastering React.
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech Stack:</h3>
 <table align="left">
   <tr>
     <td align="center">Frontend</td>
     <td align="center">Backend</td>
+    <td align="center">Databases</td>
   </tr>
   <tr>
     <td align="center">
@@ -28,9 +29,11 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
       <a href="https://docs.python.org/3/"><img alt="Python" width="60px" src="https://skillicons.dev/icons?i=py" /></a>
       <a href="https://nodejs.org/en/docs/"><img alt="Node.js" width="60px" src="https://skillicons.dev/icons?i=nodejs" /></a>
       <a href="https://www.php.net/docs.php"><img alt="PHP" width="60px" src="https://skillicons.dev/icons?i=php" /></a>
+    </td>
+    <td align="center">
       <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://skillicons.dev/icons?i=mysql" /></a>
-      <a href="https://docs.mongodb.com/"><img alt="MongoDB" width="60px" src="https://skillicons.dev/icons?i=mongodb" /></a>
       <a href="https://www.postgresql.org/docs/"><img alt="PostgreSQL" width="60px" src="https://skillicons.dev/icons?i=postgresql" /></a>
+      <a href="https://docs.mongodb.com/"><img alt="MongoDB" width="60px" src="https://skillicons.dev/icons?i=mongodb" /></a>
     </td>
 
   </tr>
