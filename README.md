@@ -26,9 +26,13 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
       <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="60px" src="https://skillicons.dev/icons?i=java" /></a>
       <a href="https://docs.spring.io/spring-framework/reference/index.html"><img alt="Spring" width="60px" src="https://skillicons.dev/icons?i=spring" /></a>
       <a href="https://docs.python.org/3/"><img alt="Python" width="60px" src="https://skillicons.dev/icons?i=py" /></a>
+      <a href="https://nodejs.org/en/docs/"><img alt="Node.js" width="60px" src="https://skillicons.dev/icons?i=nodejs" /></a>
       <a href="https://www.php.net/docs.php"><img alt="PHP" width="60px" src="https://skillicons.dev/icons?i=php" /></a>
       <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://skillicons.dev/icons?i=mysql" /></a>
+      <a href="https://docs.mongodb.com/"><img alt="MongoDB" width="60px" src="https://skillicons.dev/icons?i=mongodb" /></a>
+      <a href="https://www.postgresql.org/docs/"><img alt="PostgreSQL" width="60px" src="https://skillicons.dev/icons?i=postgresql" /></a>
     </td>
+
   </tr>
 </table>
 <br clear="left">
