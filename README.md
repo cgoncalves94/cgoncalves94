@@ -1,4 +1,4 @@
-# Hello, I'm Cesar! 👋
+ # Hello, I'm Cesar! 👋
 
 ## About Me
 I'm currently in the final year of my Bachelor's degree in Computer Science at **Birkbeck University**.<br>
@@ -28,7 +28,6 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
       <a href="https://docs.spring.io/spring-framework/reference/index.html"><img alt="Spring" width="60px" src="https://skillicons.dev/icons?i=spring" /></a>
       <a href="https://docs.python.org/3/"><img alt="Python" width="60px" src="https://skillicons.dev/icons?i=py" /></a>
       <a href="https://nodejs.org/en/docs/"><img alt="Node.js" width="60px" src="https://skillicons.dev/icons?i=nodejs" /></a>
-      <a href="https://www.php.net/docs.php"><img alt="PHP" width="60px" src="https://skillicons.dev/icons?i=php" /></a>
     </td>
     <td align="center">
       <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://skillicons.dev/icons?i=mysql" /></a>
