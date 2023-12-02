@@ -16,6 +16,7 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
     <td align="center">Frontend</td>
     <td align="center">Backend</td>
     <td align="center">Databases</td>
+    <td align="center">DevOps</td>
   </tr>
   <tr>
     <td align="center">
@@ -33,6 +34,11 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
       <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://skillicons.dev/icons?i=mysql" /></a>
       <a href="https://www.postgresql.org/docs/"><img alt="PostgreSQL" width="60px" src="https://skillicons.dev/icons?i=postgresql" /></a>
       <a href="https://docs.mongodb.com/"><img alt="MongoDB" width="60px" src="https://skillicons.dev/icons?i=mongodb" /></a>
+    </td>
+    <td align="center">
+      <a href="https://docs.docker.com/get-started/"><img alt="Docker" width="60px" src="https://skillicons.dev/icons?i=docker" /></a>
+      <a href="https://kubernetes.io/docs/concepts/"><img alt="Kubernetes" width="60px" src="https://skillicons.dev/icons?i=kubernetes" /></a>
+      <a href="https://cloud.google.com/docs"><img alt="Google Cloud Machine" width="60px" src="https://skillicons.dev/icons?i=gcp" /></a>
     </td>
 
   </tr>
