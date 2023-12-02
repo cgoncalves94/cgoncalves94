@@ -20,25 +20,25 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
   </tr>
   <tr>
     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="60px" src="https://skillicons.dev/icons?i=html" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="60px" src="https://skillicons.dev/icons?i=css" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" width="60px" src="https://skillicons.dev/icons?i=js" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="50px" src="https://skillicons.dev/icons?i=html" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="50px" src="https://skillicons.dev/icons?i=css" /></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" width="50px" src="https://skillicons.dev/icons?i=js" /></a>
     </td>
     <td align="center">
-      <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="60px" src="https://skillicons.dev/icons?i=java" /></a>
-      <a href="https://docs.spring.io/spring-framework/reference/index.html"><img alt="Spring" width="60px" src="https://skillicons.dev/icons?i=spring" /></a>
-      <a href="https://docs.python.org/3/"><img alt="Python" width="60px" src="https://skillicons.dev/icons?i=py" /></a>
-      <a href="https://nodejs.org/en/docs/"><img alt="Node.js" width="60px" src="https://skillicons.dev/icons?i=nodejs" /></a>
+      <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="50px" src="https://skillicons.dev/icons?i=java" /></a>
+      <a href="https://docs.spring.io/spring-framework/reference/index.html"><img alt="Spring" width="50px" src="https://skillicons.dev/icons?i=spring" /></a>
+      <a href="https://docs.python.org/3/"><img alt="Python" width="50px" src="https://skillicons.dev/icons?i=py" /></a>
+      <a href="https://nodejs.org/en/docs/"><img alt="Node.js" width="50px" src="https://skillicons.dev/icons?i=nodejs" /></a>
     </td>
     <td align="center">
-      <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="60px" src="https://skillicons.dev/icons?i=mysql" /></a>
-      <a href="https://www.postgresql.org/docs/"><img alt="PostgreSQL" width="60px" src="https://skillicons.dev/icons?i=postgresql" /></a>
-      <a href="https://docs.mongodb.com/"><img alt="MongoDB" width="60px" src="https://skillicons.dev/icons?i=mongodb" /></a>
+      <a href="https://dev.mysql.com/doc/"><img alt="MySQL" width="50px" src="https://skillicons.dev/icons?i=mysql" /></a>
+      <a href="https://www.postgresql.org/docs/"><img alt="PostgreSQL" width="50px" src="https://skillicons.dev/icons?i=postgresql" /></a>
+      <a href="https://docs.mongodb.com/"><img alt="MongoDB" width="50px" src="https://skillicons.dev/icons?i=mongodb" /></a>
     </td>
     <td align="center">
-      <a href="https://docs.docker.com/get-started/"><img alt="Docker" width="60px" src="https://skillicons.dev/icons?i=docker" /></a>
-      <a href="https://kubernetes.io/docs/concepts/"><img alt="Kubernetes" width="60px" src="https://skillicons.dev/icons?i=kubernetes" /></a>
-      <a href="https://cloud.google.com/docs"><img alt="Google Cloud Machine" width="60px" src="https://skillicons.dev/icons?i=gcp" /></a>
+      <a href="https://docs.docker.com/get-started/"><img alt="Docker" width="50px" src="https://skillicons.dev/icons?i=docker" /></a>
+      <a href="https://kubernetes.io/docs/concepts/"><img alt="Kubernetes" width="50px" src="https://skillicons.dev/icons?i=kubernetes" /></a>
+      <a href="https://cloud.google.com/docs"><img alt="Google Cloud Machine" width="50px" src="https://skillicons.dev/icons?i=gcp" /></a>
     </td>
 
   </tr>
