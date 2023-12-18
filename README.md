@@ -26,7 +26,6 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
     </td>
     <td align="center">
       <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="50px" src="https://skillicons.dev/icons?i=java" /></a>
-      <a href="https://docs.spring.io/spring-framework/reference/index.html"><img alt="Spring" width="50px" src="https://skillicons.dev/icons?i=spring" /></a>
       <a href="https://docs.python.org/3/"><img alt="Python" width="50px" src="https://skillicons.dev/icons?i=py" /></a>
       <a href="https://nodejs.org/en/docs/"><img alt="Node.js" width="50px" src="https://skillicons.dev/icons?i=nodejs" /></a>
     </td>
