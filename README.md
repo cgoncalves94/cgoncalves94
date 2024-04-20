@@ -23,10 +23,12 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="50px" src="https://skillicons.dev/icons?i=html" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="50px" src="https://skillicons.dev/icons?i=css" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" width="50px" src="https://skillicons.dev/icons?i=js" /></a>
+      <a href="https://react.dev/learn"><img alt="React" width="50px" src="https://skillicons.dev/icons?i=react" /></a>
     </td>
     <td align="center">
       <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="50px" src="https://skillicons.dev/icons?i=java" /></a>
       <a href="https://docs.python.org/3/"><img alt="Python" width="50px" src="https://skillicons.dev/icons?i=py" /></a>
+      <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" width="50px" src="https://skillicons.dev/icons?i=fastapi" /></a>
       <a href="https://nodejs.org/en/docs/"><img alt="Node.js" width="50px" src="https://skillicons.dev/icons?i=nodejs" /></a>
     </td>
     <td align="center">
@@ -36,8 +38,8 @@ My passion for technology drives me, and I'm eager to contribute more to the tec
     </td>
     <td align="center">
       <a href="https://docs.docker.com/get-started/"><img alt="Docker" width="50px" src="https://skillicons.dev/icons?i=docker" /></a>
-      <a href="https://kubernetes.io/docs/concepts/"><img alt="Kubernetes" width="50px" src="https://skillicons.dev/icons?i=kubernetes" /></a>
-      <a href="https://cloud.google.com/docs"><img alt="Google Cloud Machine" width="50px" src="https://skillicons.dev/icons?i=gcp" /></a>
+      <a href="https://docs.github.com/en/actions"><img alt="GitHub Actions" width="50px" src="https://skillicons.dev/icons?i=githubactions" /></a>
+      <a href="https://docs.github.com/en/actions"><img alt="Google Cloud Machine" width="50px" src="https://skillicons.dev/icons?i=gcp" /></a>
     </td>
 
   </tr>
