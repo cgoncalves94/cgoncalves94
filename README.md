@@ -1,14 +1,13 @@
  # Hello, I'm Cesar! 👋
 
 ## About Me
-Highly motivated Software Engineer. <br>
-I am passionate about applying what I learn to build innovative applications and contribute to real-world development.
+Highly motivated Software Engineer passionate about building innovative applications and contributing to real-world development.
 
 ### What I'm up to:
 - 🎓 Wrapping up my bachelor's degree in Computer Science at Birkbeck University.
 - 🌐 Taking additional courses on [Codecademy](https://www.codecademy.com/) to further enhance my skills.
 - 🏢 Leveraging my extensive experience from the hospitality sector to bring a unique perspective to tech projects.
-- 🎯 **Next Learning Goals**: Diving into JavaScript, focusing on mastering React.
+- 🎯 **Next Learning Goals**: Mastering React.
 <h3 align="left">Tech Stack:</h3>
 <table align="left">
   <tr>
@@ -44,6 +43,9 @@ I am passionate about applying what I learn to build innovative applications and
   </tr>
 </table>
 <br clear="left">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cgoncalves94&layout=compact">
 
 ### Connect with Me:
 [<img align="left" alt="Cesar's Instagram" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
