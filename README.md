@@ -1,7 +1,7 @@
  # Hello, I'm Cesar! 👋
 
 ## About Me
-Highly motivated Software Engineer passionate about building innovative applications and contributing to real-world development.
+Passionate about building innovative applications and contributing to real-world development.
 
 ### What I'm up to:
 - 🎓 Wrapping up my bachelor's degree in Computer Science at Birkbeck University.
