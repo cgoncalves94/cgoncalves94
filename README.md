@@ -7,6 +7,7 @@ Passionate about building innovative applications and contributing to real-world
 - 🎓 Wrapping up my bachelor's degree in Computer Science at Birkbeck University.
 - 🌐 Taking additional courses on [Codecademy](https://www.codecademy.com/) to further enhance my skills.
 - 🏢 Leveraging my extensive experience from the hospitality sector to bring a unique perspective to tech projects.
+- 💼 Currently working as a Software Engineer.
 - 🎯 **Next Learning Goals**: Mastering React.
 <h3 align="left">Tech Stack:</h3>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="50px" src="https://skillicons.dev/icons?i=html" /></a>
