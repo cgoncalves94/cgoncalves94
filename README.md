@@ -4,16 +4,14 @@
 Passionate about building innovative applications and contributing to real-world development.
 
 ### What I'm up to:
-- 🎓 Wrapping up my bachelor's degree in Computer Science at Birkbeck University.
-- 🌐 Taking additional courses on [Codecademy](https://www.codecademy.com/) to further enhance my skills.
+- 🎓 Recently graduated with a Bachelor's degree in Computer Science from Birkbeck University.
+- 🌐 Continuously learning through courses on [Codecademy](https://www.codecademy.com/) to further enhance my skills.
 - 🏢 Leveraging my extensive experience from the hospitality sector to bring a unique perspective to tech projects.
 - 💼 Currently working as a Software Engineer.
-- 🎯 **Next Learning Goals**: Mastering React.
 <h3 align="left">Tech Stack:</h3>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" width="50px" src="https://skillicons.dev/icons?i=html" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" width="50px" src="https://skillicons.dev/icons?i=css" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JS" width="50px" src="https://skillicons.dev/icons?i=js" /></a>
-      <a href="https://react.dev/learn"><img alt="React" width="50px" src="https://skillicons.dev/icons?i=react" /></a>
       <a href="https://docs.oracle.com/en/java/"><img alt="Java" width="50px" src="https://skillicons.dev/icons?i=java" /></a>
       <a href="https://docs.python.org/3/"><img alt="Python" width="50px" src="https://skillicons.dev/icons?i=py" /></a>
       <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" width="50px" src="https://skillicons.dev/icons?i=fastapi" /></a>
