@@ -1,7 +1,7 @@
 # Hi there, I'm Cesar! 👋
 
 ## 🚀 About Me
-Passionate about backend development, AI systems, and building scalable applications. I thrive on solving complex problems and delivering high-performance solutions. 
+Passionate about backend development, AI systems, and building scalable applications.
 
 - 🎓 First-Class Honours in Computer Science from Birkbeck University, London.
 - 💼 Backend Developer & AI Engineer at [Warestack](https://www.warestack.com/), working on intelligent automation tools.
