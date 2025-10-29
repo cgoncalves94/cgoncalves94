@@ -4,8 +4,7 @@
 Passionate about backend development, AI systems, and building scalable applications.
 
 - 🎓 First-Class Honours in Computer Science from Birkbeck University, London.  
-- 💼 Junior Software Engineer at [Teya](https://www.teya.com/).  
-- 🏫 Teaching Assistant at Birkbeck University, assisting in **Big Data Analytics** and **Cloud Computing** courses.
+- 💼 Software Engineer at [Teya](https://www.teya.com/).  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cgoncalves94&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
