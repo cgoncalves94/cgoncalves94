@@ -6,7 +6,6 @@ Passionate about backend development, AI systems, and building scalable applicat
 - 🎓 First-Class Honours in Computer Science from Birkbeck University, London.  
 - 💼 Software Engineer at [Teya](https://www.teya.com/).  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cgoncalves94&theme=onedark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔗 Let's Connect  
 [![](https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white&color=0e76a8)](https://www.cesar-goncalves.com/)
